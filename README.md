@@ -1,4 +1,5 @@
 This Python script solves a Sudoku puzzle using a backtracking algorithm. It includes functions to validate moves and recursively solve the puzzle. Additionally, it provides a method to print the Sudoku board.
+
 Code Explanation:
 board-
 The Sudoku puzzle is represented as a 9x9 2D list named board.
